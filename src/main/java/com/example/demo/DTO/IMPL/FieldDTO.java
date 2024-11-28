@@ -1,4 +1,4 @@
-package demo.DTO.IMPL;
+package com.example.demo.DTO.IMPL;
 
 import com.example.demo.DTO.FieldStatus;
 import jakarta.persistence.Id;
