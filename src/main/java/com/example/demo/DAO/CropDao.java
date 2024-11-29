@@ -1,4 +1,4 @@
-package demo.DAO;
+package com.example.demo.DAO;
 
 import com.example.demo.Entity.IMPL.CropEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
