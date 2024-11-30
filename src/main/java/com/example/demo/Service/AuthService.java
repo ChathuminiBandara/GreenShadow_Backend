@@ -1,4 +1,4 @@
-package demo.Service;
+package com.example.demo.Service;
 
 import com.example.demo.DTO.IMPL.UserDTO;
 import com.example.demo.Secure.JWTAuthResponse;
