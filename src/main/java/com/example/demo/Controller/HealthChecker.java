@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HealthChecker {
     @GetMapping
     public String healthCkecker(){
-        return "API is Working perfectly";
+        return "Green Shadow Health Check Is Done !";
     }
 }
